@@ -14,7 +14,7 @@ The VAE implementation in this exercise utilizes the Fashion MNIST dataset, whic
 ### Model
 The code implements a Variational Autoencoder (VAE) based on the paper "Semi-supervised Learning with Deep Generative Models". Additionally, the SVM model from the scikit-learn library is trained after the VAE.
 
-### Execution
+### Usage
 To run this code, follow these steps:
 1. Set the appropriate directory paths within the "For the instructor" section according to your directory setup.
 2. Run the code cell by cell.
@@ -37,7 +37,7 @@ The GAN models (DC GAN & WGAN) were trained on the Fashion MNIST dataset, which 
 ### Model
 The code implements a Generative Adversarial Network (GAN) consisting of a Generator and a Discriminator. The Generator generates synthetic images using linear and convolutional transpose layers, while the Discriminator classifies input images as real or fake using convolutional layers with leaky ReLU activation. The loss calculations and optimizer parameters differ for each GAN type.
 
-### Execution
+### Usage
 To run this code, follow these steps:
 1. Set the appropriate directory paths within the "For the instructor" section according to your directory setup.
 2. Run the code cell by cell.
