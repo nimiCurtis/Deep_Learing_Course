@@ -3,7 +3,8 @@
 ---
 ## Course Overview
 
-Welcome to the Deep Learning Course! This course is designed to provide a comprehensive understanding of various topics in deep learning and their applications. Throughout this course, different neural network structures, optimization algorithms, and advanced techniques in deep learning will be studied. The course is covering a wide range of applications such as image classification, object detection, speech recognition, language models, and generative models.
+Welcome to the Deep Learning Course! 
+This repo contains only the exercises of a DNN course which designed to provide a comprehensive understanding of various topics in deep learning and their applications. Throughout this course, different neural network structures, optimization algorithms, and advanced techniques in deep learning were studied. The course is covered a wide range of applications such as image classification, object detection, speech recognition, language models, and generative models.
 
 --- 
 ## Exercises
