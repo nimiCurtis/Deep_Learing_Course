@@ -10,7 +10,7 @@ Welcome to the Deep Learning Course! This course is designed to provide you with
 
 This repository includes several exercise folders. Each folder focuses on a specific topic or technique, providing you with hands-on practice and the opportunity to apply your knowledge. The exercise folders are organized as follows:
 
-1. [**Exercise_#1_CNN_Basics**](Exersice_#1_CNN_Basics): In this exercise, you will dive into the fundamentals of Convolutional Neural Networks (CNNs). You will learn about the architecture of CNNs, their building blocks, and how they are applied to solve various image classification problems.
+1. [**Exercise_#1_CNN_Basics**](Deep_Learning_Course/Exersice_#1_CNN_Basics/): In this exercise, you will dive into the fundamentals of Convolutional Neural Networks (CNNs). You will learn about the architecture of CNNs, their building blocks, and how they are applied to solve various image classification problems.
 
 2. [**Exercise_#2_RNN**](Exersice_#2_RNN): This exercise will introduce you to Recurrent Neural Networks (RNNs) and their applications. You will explore different RNN architectures and understand how they are used for sequence data processing tasks, such as text generation.
 
