@@ -10,7 +10,7 @@ This repo contains only the exercises of a DNN course which designed to provide 
 --- 
 ## Exercises
 
-This repository includes several exercise folders. Each folder focuses on a specific topic or technique, providing you with hands-on practice and the opportunity to apply your knowledge. The exercise folders are organized as follows:
+This repository includes several exercise folders. Each folder focuses on a specific topic or technique, providing you with hands-on practice and the opportunity to apply your knowledge. The exercise folders are organized as follow:
 
 1. [**Exercise_#1_CNN_Basics**](https://github.com/nimiCurtis/Deep_Learning_Course/tree/main/Exercise_%231_CNN_Basics): In this exercise, you will dive into the fundamentals of Convolutional Neural Networks (CNNs). You will learn about the architecture of CNNs, their building blocks, and how they are applied to solve various image classification problems.
 
